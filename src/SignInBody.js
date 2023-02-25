@@ -16,7 +16,7 @@ function SignInBody() {
             <button>Sign In</button>
             <button>Login as Guest User</button>
             <p className="signinbody_text">
-              New to MovieApp?{" "}
+              New User?{" "}
               <span onClick={() => setShowSignInBox(false)}>SignUp Now.</span>
             </p>
           </div>
