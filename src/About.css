@@ -1,0 +1,102 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.about{
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img1{
+  height: 480px;
+  width: 450px;
+  margin-left: 40px;
+}
+
+.image_section{
+  display: flex;
+}
+
+.para{
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  color: rgb(30, 21, 80);
+  font-weight: 700
+}
+.background-blue{
+
+
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+
+  align-items: center;
+   
+  flex-direction: column;
+  /* min-height: 100vh; */
+  justify-content: center;
+  background-color: rgb(39, 22, 22);
+  /* height: 170px; */
+  margin-top: auto;
+}
+.health-care{
+   color: aliceblue;
+   margin-top: 1px;
+}
+.follow{
+  color: whitesmoke;
+  margin-top: 1px;
+  
+}
+.insta{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.face{
+  height: 30px;
+  margin-left: 30px;
+}

@@ -1,0 +1,23 @@
+.bmi{
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.cal-txt{
+    margin-left: 170px;
+}
+.whole{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.fitnes{
+    width: 500px;
+    height: 330px;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+
+.workout{
+    margin-left: 300px;
+}
